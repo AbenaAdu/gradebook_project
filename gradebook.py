@@ -12,4 +12,6 @@ gradebook = [["physics", 98],
 
 #Adding new subject and grade
 gradebook.append(["computer science", 100])
+#Adding new subject and grade
+gradebook.append(["visual arts", 93])
 
