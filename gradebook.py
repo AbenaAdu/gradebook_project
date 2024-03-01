@@ -16,3 +16,5 @@ gradebook.append(["computer science", 100])
 gradebook.append(["visual arts", 93])
 #Added 5 points to the visual arts grade
 gradebook[5][1] = 98
+#Removed grade for poetry class
+gradebook[2].remove(85)
