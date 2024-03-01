@@ -18,3 +18,5 @@ gradebook.append(["visual arts", 93])
 gradebook[5][1] = 98
 #Removed grade for poetry class
 gradebook[2].remove(85)
+#Added pass value to poetry class
+gradebook[2].append("Pass")
