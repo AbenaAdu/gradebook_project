@@ -5,4 +5,11 @@ subjects = ["physics", "calculus", "poetry", "history"]
 grades = [98, 97, 85, 88]
 
 #Combination of subjects and grades 
-gradebook = [["physics", 98], ["calculus", 97], ["poetry", 85], ["history", 88]]
+gradebook = [["physics", 98], 
+             ["calculus", 97], 
+             ["poetry", 85], 
+             ["history", 88]]
+
+#Adding new subject and grade
+gradebook.append(["computer science", 100])
+
